@@ -1,0 +1,7 @@
+import "strings"
+
+print(strings.to_string("ok"))
+
+main = rule {
+  false
+}
