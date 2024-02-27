@@ -1,6 +1,7 @@
-import "strings"
+import "tfconfig-functions" as tfconfig
+import "tfconfig/v2" as tfconfigv2
 
-print(strings.to_string("ok"))
+print("ok")
 
 main = rule {
   false

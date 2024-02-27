@@ -1,0 +1,10 @@
+{
+	"records": [
+		{
+			"key": "always-fails",
+			"source": "./policy.sentinel",
+			"sourceSum": "",
+			"dest": "/home/sean/sentinel/always-fails/child-dir/policy.sentinel"
+		}
+	]
+}
