@@ -5,7 +5,7 @@ policy "always-fails" {
 
 mock "tfconfig-functions" {
     module {
-      source = "../common-functions/tfconfig-functions.sentinel"
+      source = "./tfconfig-functions.sentinel"
     }
   }
 
